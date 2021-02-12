@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "SAN-LAMAMBA POPODA",
+	"author": "San-Lamamba Popoda",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
